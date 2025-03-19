@@ -1,0 +1,38 @@
+#fundo{
+    position: relative;
+    width: 80%;
+    height: 600px;
+    background-color: antiquewhite;
+    margin:auto;
+}
+
+#camada1{
+    position:relative;
+    width:150px;
+    height:180px;
+    border:5px solid red;
+    background-color: yellow;
+    text-align: center;
+    float: left;
+}
+ 
+#camada2{
+    position:relative;
+    width:150px;
+    height:180px;
+    border:5px solid darkgreen;
+    background-color: lime;
+    text-align: center;
+    float: left;
+}
+ 
+#camada3{
+    position:relative;
+    width:150px;
+    height:180px;
+    border:5px solid darkblue;
+    background-color: plum;
+    text-align: center;
+    clear: left;
+}
+ 

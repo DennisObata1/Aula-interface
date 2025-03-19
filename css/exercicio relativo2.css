@@ -1,0 +1,63 @@
+#camada1 {
+    position: relative;
+    background-color: teal;
+    width: 100%;
+    height: 135px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#camada2 {
+    position: relative;
+    background-color: lightblue;
+    width: 100px;
+    height: 535px;
+    float: left;
+}
+
+#camada3 {
+    position: relative;
+    background-color: grey;
+    width: 1220px;
+    height: 535px;
+    float: left;
+}
+
+#camada4 {
+    position: relative;
+    background-color: lightblue;
+    width: 200px;
+    height: 535px;
+    float: left;
+}
+
+#camera {
+    position: absolute;
+    bottom: 20px; 
+    left: 1050px; 
+    width: 200px; 
+    z-index: 5;
+}
+
+.quadrado1 {
+    background-color: white;
+    width: 180px;
+    height: 140px;
+    margin: 1px auto;
+}
+
+.quadrado2 {
+    background-color: white;
+    width: 180px;
+    height: 140px;
+    margin: 1px auto;
+    border: 5px solid lightblue;
+}
+
+#camada5 {
+    position: relative;
+    background-color: deepskyblue;
+    width: 100%;
+    height: 50px;
+    clear: left;
+}
